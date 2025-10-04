@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@blueprintjs/core": "^3.30.0",
+    "@blueprintjs/core": "^3.54.0",
     "connected-react-router": "^6.8.0",
     "echarts": "^4.8.0",
     "echarts-for-react": "^2.0.16",
